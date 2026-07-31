@@ -21,7 +21,7 @@
 <div align="center">
 
 [![NewRun](https://img.shields.io/badge/NewRun-newrun.club-FF9900?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://newrun.club)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunmohan02/)
 [![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:varunmj978@gmail.com)
 
 </div>
@@ -197,7 +197,7 @@ open_to:
 <div align="center">
 
 [![NewRun](https://img.shields.io/badge/NewRun-newrun.club-FF9900?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://newrun.club)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunmohan02/)
 [![Email](https://img.shields.io/badge/Email-FF9900?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:varunmj978@gmail.com)
 
 </div>
