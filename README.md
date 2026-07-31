@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=VARUN%20MOHANKUMAR%20JAYASREE&fontSize=38&height=140&desc=Founder%20%40%20NewRun%20%7C%20Former%20Product%20%40%20AWS&descColor=E6EDF3&descSize=17&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=VARUN%20MOHANKUMAR%20JAYASREE&fontSize=36&height=170&fontAlignY=35&desc=Founder%20%40%20NewRun%20%7C%20Former%20Product%20%40%20AWS&descColor=E6EDF3&descSize=16&descAlignY=68&animation=fadeIn" />
 </div>
 
 <div align="center">
