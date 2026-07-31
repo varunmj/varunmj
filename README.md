@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/varunmj/varunmj/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=VARUN%20MOHANKUMAR%20JAYASREE&fontSize=40&height=280&desc=Founder%20%40%20NewRun%20%7C%20Former%20Product%20%40%20AWS&descColor=E6EDF3&descSize=18&animation=fadeIn" />
 </div>
 
@@ -164,16 +168,6 @@ End-to-end ETL pipeline extracting real-estate data from Zillow via RapidAPI, tr
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=varunmj&bg_color=0D1117&color=FF9900&line=FF9900&point=3FB950&area=true&area_color=1F6FEB&hide_border=true)](https://github.com/varunmj)
-
-</div>
-
----
-
-## `> contribution-snake`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/varunmj/varunmj/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
