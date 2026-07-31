@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=VARUN%20MOHANKUMAR%20JAYASREE&fontSize=40&height=280&desc=Founder%20%40%20NewRun%20%7C%20Former%20Product%20%40%20AWS&descColor=E6EDF3&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&text=VARUN%20MOHANKUMAR%20JAYASREE&fontSize=38&height=140&desc=Founder%20%40%20NewRun%20%7C%20Former%20Product%20%40%20AWS&descColor=E6EDF3&descSize=17&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -209,5 +209,5 @@ open_to:
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&descColor=E6EDF3" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&fontColor=FF9900&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=20&descColor=E6EDF3" />
 </div>
